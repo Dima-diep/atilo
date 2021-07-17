@@ -1,4 +1,7 @@
 # atilo
+
+OS system = Termux
+
 Installer atilo
 
 Run:
