@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "deb [trusted=yes] https://yadominjinta.github.io/files/ termux e
+echo "deb [trusted=yes] https://yadominjinta.github.io/files/ termux extras
 xtras" >> $PREFIX/etc/apt/sources.list
 apt update
 apt upgrade -y
